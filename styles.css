@@ -1,0 +1,11 @@
+body {
+    background: lightskyblue;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  h1 {
+    color: greenyellow
+  }
+  #submit {
+    border-radius: 10px;
+  }
